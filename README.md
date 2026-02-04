@@ -28,3 +28,8 @@ Manual file exports are repetitive and error-prone. This macro reduces multiple 
 
 ## License
 Free to use for learning and internal workflows.
+
+## Demo Video
+
+[![SolidWorks Macro Demo](https://img.youtube.com/vi/QrZbN4IzimA/0.jpg)](https://www.youtube.com/watch?v=QrZbN4IzimA)
+
